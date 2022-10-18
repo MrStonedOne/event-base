@@ -1,6 +1,6 @@
 ## /tg/station Events Base
 
-This repository is a descendant of the "events base". The events base is **modular**, meaning **you should avoid editing code in the code folder itself.**
+This repository was a descendant of the "events base". The events base is **modular**, meaning **you should avoid editing code in the code folder itself.**
 
 ## Adding a new module, where do I do it?
 
